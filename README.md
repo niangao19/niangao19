@@ -3,12 +3,12 @@
 
 ### EDUCATION :
 
-• National Yang Ming Chiao Tung University
+- **National Yang Ming Chiao Tung University**
 Institute of Multimedia Engineering
 
 High Speed Communication and Computing Lab, supervised by Yu-Chee Tseng
 
-• Chung Yuan Christian University
+- **Chung Yuan Christian University**
 
 Bachelor of Computer Science and Information Engineering
 
