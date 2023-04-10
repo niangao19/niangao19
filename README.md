@@ -1,8 +1,11 @@
-# about-me
-##### name : 年晧鳴
-##### email : hmnmax@gmail.com
-<a href="[https://linkedin.com/in/年晧鳴](https://www.linkedin.com/in/nienhaoming/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="年晧鳴" height="30" width="40" /></a>
-<a href="[https://fb.com/年晧鳴](https://www.facebook.com/max.ax.50/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="年晧鳴" height="30" width="40" /></a>
+<h1 align="center">Hi 👋, I'm 年晧鳴</h1>
+- 🌱 I’m currently learning **computer science**
+
+- 📫 How to reach me **hmnmax@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nienhaoming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nienhaoming" height="30" width="40" /></a>
 <a href="https://discord.gg/spyegg#6715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="spyegg#6715" height="30" width="40" /></a>
 </p>
 
