@@ -5,7 +5,7 @@ I’m currently learning **computer science**
 
 How to reach me **hmnmax@gmail.com**
 
-blog : https://niangao19.github.io/
+blog : **https://niangao19.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
