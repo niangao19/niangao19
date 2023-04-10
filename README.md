@@ -4,13 +4,13 @@
 ### EDUCATION :
 
 - **National Yang Ming Chiao Tung University**
-    *  Institute of Multimedia Engineering
+    *  **Institute of Multimedia Engineering**
 
-    * High Speed Communication and Computing Lab, supervised by Yu-Chee Tseng
+    * **High Speed Communication and Computing Lab, supervised by Yu-Chee Tseng**
 
 - **Chung Yuan Christian University**
 
-    * Bachelor of Computer Science and Information Engineering
+    * **Bachelor of Computer Science and Information Engineering**
 
 ### How to reach me **hmnmax@gmail.com**
 
