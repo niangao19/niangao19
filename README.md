@@ -1,11 +1,17 @@
 # about me
-name :  年晧鳴
+### name :  年晧鳴
 
-I’m currently learning **computer science**
+### EDUCATION :
 
-How to reach me **hmnmax@gmail.com**
+• National Yang Ming Chiao Tung University
+Institute of Multimedia Engineering
+High Speed Communication and Computing Lab, supervised by Yu-Chee Tseng
+• Chung Yuan Christian University
+Bachelor of Computer Science and Information Engineering
 
-blog : **https://niangao19.github.io/**
+### How to reach me **hmnmax@gmail.com**
+
+### blog : **https://niangao19.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
