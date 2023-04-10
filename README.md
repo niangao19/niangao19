@@ -1,9 +1,9 @@
 # about me
 name :  年晧鳴
 
-🌱 I’m currently learning **computer science**
+I’m currently learning **computer science**
 
-📫 How to reach me **hmnmax@gmail.com**
+How to reach me **hmnmax@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
