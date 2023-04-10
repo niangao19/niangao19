@@ -1,5 +1,5 @@
 # about me
-<h1 align="center">Hi 👋, I'm 年晧鳴</h1>
+- name :  年晧鳴
 - 🌱 I’m currently learning **computer science**
 
 - 📫 How to reach me **hmnmax@gmail.com**
