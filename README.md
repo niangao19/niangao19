@@ -1,7 +1,7 @@
 # about me
-### name :  年晧鳴
+#### name :  年晧鳴
 
-### EDUCATION :
+#### EDUCATION :
 
 - **National Yang Ming Chiao Tung University**
     *  **Institute of Multimedia Engineering**
@@ -12,9 +12,9 @@
 
     * **Bachelor of Computer Science and Information Engineering**
 
-### How to reach me **hmnmax@gmail.com**
+#### How to reach me **hmnmax@gmail.com**
 
-### blog : **https://niangao19.github.io/**
+#### blog : **https://niangao19.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
