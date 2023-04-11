@@ -3,12 +3,12 @@
 
 #### EDUCATION :
 
-- **National Yang Ming Chiao Tung University**
+- **National Yang Ming Chiao Tung University** {2022-Now}
     *  **Institute of Multimedia Engineering**
 
     * **High Speed Communication and Computing Lab, supervised by Yu-Chee Tseng**
 
-- **Chung Yuan Christian University**
+- **Chung Yuan Christian University** {2018-2022}
 
     * **Bachelor of Computer Science and Information Engineering**
 
