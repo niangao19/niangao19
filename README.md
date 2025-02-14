@@ -3,7 +3,7 @@
 
 #### EDUCATION :
 
-- **National Yang Ming Chiao Tung University** `2022-Now`
+- **National Yang Ming Chiao Tung University** `2022-2025`
     *  **Institute of Multimedia Engineering**
 
     * **High Speed Communication and Computing Lab, supervised by Yu-Chee Tseng**
